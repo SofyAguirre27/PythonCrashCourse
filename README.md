@@ -1,3 +1,3 @@
 # PythonCrashCourse
 Proyecto para practicas del Python Crash Course de Softserve
-# Hugo: Práctica CAD En este proyecto se documenta la práctica realizada en Crash Course, incluyendo los ejercicios durante la clase. 
+# Práctica CAD En este proyecto mi equipo va documentar la práctica realizada en Crash Course, incluimos los ejercicios durante la clase. Sofy.
